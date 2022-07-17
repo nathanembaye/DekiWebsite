@@ -48,7 +48,7 @@
     {
         "icon": "fa fa-pie-chart",
         "name": "Understanding OSAP",
-        "text": "OSAP is commonly needed but now rarley fully understood. We want to help you get the info you need so we've developed a directory."
+        "text": "OSAP is commonly needed but now rarely fully understood. We want to help you get the info you need so we've developed a directory."
     }],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -145,7 +145,7 @@
         {
             "icon": "fa fa-bullhorn",
             "title": "Work",
-            "text": "Find a big brother/sister that is currently in the field you hope to pursue."
+            "text": "Find a big brother/sister that is currently in the field you want to enter."
         },
         {
             "icon": "fa fa-group",

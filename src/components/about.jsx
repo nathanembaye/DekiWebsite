@@ -10,7 +10,7 @@ export const About = (props) => {
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
               <h2>Tutoring</h2>
-              <p>{props.data ? props.data.paragraph : 'loading...'}<a href={"https://docs.google.com/forms/d/e/1FAIpQLSeJXLZeTJRzlADolIgGJaalpgIavN-dfVrSOoW-_kchG8lxRQ/viewform?usp=sf_link"}>here</a> if you want to tutor someone please submit <a href={"https://docs.google.com/forms/d/e/1FAIpQLScZPzaC5WnOxjeEdzXrV_q74YZx3imGvZr66lLiFqyaMiPrlw/viewform?usp=sf_link"}>this</a>.</p>
+              <p>{props.data ? props.data.paragraph : 'loading...'}<a href={"https://docs.google.com/forms/d/e/1FAIpQLSeJXLZeTJRzlADolIgGJaalpgIavN-dfVrSOoW-_kchG8lxRQ/viewform?usp=sf_link"}>here</a> and if you want to tutor someone please submit <a href={"https://docs.google.com/forms/d/e/1FAIpQLScZPzaC5WnOxjeEdzXrV_q74YZx3imGvZr66lLiFqyaMiPrlw/viewform?usp=sf_link"}>this</a>.</p>
               <h3>Subjects We Help With:</h3>
               <div className='list-style'>
                 <div className='col-lg-6 col-sm-6 col-xs-12'>
