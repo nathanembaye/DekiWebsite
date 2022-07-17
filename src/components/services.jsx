@@ -3,10 +3,9 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Academic/Career Counselling</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            We provide information and services that will help you reach that next stage in your academic or work career.
           </p>
         </div>
         <div className='row'>
