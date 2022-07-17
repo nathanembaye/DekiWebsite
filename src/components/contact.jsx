@@ -22,7 +22,7 @@ export const Contact = (props) => {
     
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_lppu577', 'template_v5ciqyd', e.target, '_C31_bPVMJZ8EznL_'
       )
       .then(
         (result) => {
